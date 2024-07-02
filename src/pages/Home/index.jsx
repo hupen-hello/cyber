@@ -19,7 +19,7 @@ import "../../styles/scrollCue.css";
 
 import "../../assets/js/custom.js";
 import "../../assets/js/bootstrap.bundle.min.js";
-import "../../assets/js/meanmenu.min.js";
+// import "../../assets/js/meanmenu.min.js";
 import "../../assets/js/owl.carousel.min.js";
 import "../../assets/js/scrollCue.min.js";
 
